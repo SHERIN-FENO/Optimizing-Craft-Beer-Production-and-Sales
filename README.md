@@ -77,4 +77,4 @@ The objective of this project is to uncover actionable insights to improve the b
 ## How to Run the Project
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/SHERIN_FENO/craft-beer-optimization.git
+   git clone https://github.com/SHERIN_FENO/Optimizing Craft Beer Production and Sales.ipynb
